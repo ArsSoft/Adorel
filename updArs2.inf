@@ -4,13 +4,7 @@ localversion=testapp.exe
 descr=Yeni güncelleme var
 
 [action]
-query=Proceed with automatic update ?
-
-[whatsnew]
-file=http://www.tmssoftware.com/wu/whatsnew.txt
-
-[eula]
-file=http://www.tmssoftware.com/wu/license.txt
+query=Güncelleme yapmak istiyor musunuz ?
 
 [files]
 count=1
