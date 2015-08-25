@@ -3,7 +3,7 @@
 #############################################################
 
 #message={}
-#url1=https://raw.githubusercontent.com/ArsSoft/Adorel/master/Project1.exe
+#url1=https://raw.githubusercontent.com/ArsSoft/Adorel/master/CRMTest.exe
 #method=0 (self-upgrade)
 
-#version=1.0.0.4
+#version=1.0.0.13
